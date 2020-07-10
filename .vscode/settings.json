@@ -1,0 +1,8 @@
+{
+   "editor.tabSize": 3,
+   "editor.detectIndentation": false,
+   "files.associations": {
+      "sstream": "cpp",
+      "random": "cpp"
+   }
+ }
